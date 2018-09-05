@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Word on the street is, Argynvost is making a comeback.
 Use the left arrow to go back
